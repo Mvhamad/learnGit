@@ -1,1 +1,2 @@
-Je suis Git, un systeme de controle de version
+Je suis Git.
+je vais apprendre Git et GitHub
